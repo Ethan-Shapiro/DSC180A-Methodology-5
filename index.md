@@ -3,6 +3,7 @@
 ## Ethan Shapiro (enshapir@ucsd.edu)
 - Section: B13
 - Mentor(s): Professor Misha Belkin and Yian Ma
+
 ---
 ## Quarter 2 Project Proposal Questions
 *1. What is the most interesting topic covered in your domain this quarter?*
